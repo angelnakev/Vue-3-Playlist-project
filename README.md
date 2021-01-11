@@ -1,19 +1,5 @@
-# playlist
+This website is created using Vue 3 and Firebase as a backend.
+It allows us to log into an account and create different music playlists so every user can create their own playlist.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+On the home page are displayed all the playlists by different users
+Each playlist has their own thumbnail, title, who it's by and how many songs they have inside that playlist
